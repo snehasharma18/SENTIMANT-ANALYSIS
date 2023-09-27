@@ -16,8 +16,6 @@ GitHub Repository: The project's codebase is hosted on GitHub for easy access an
 
 This project provides valuable insights into sentiment analysis and text classification, making it a useful tool for understanding the sentiment behind textual data in various applications, such as social media sentiment analysis, customer feedback analysis, and more.
 
-Feel free to customize this description according to the specifics of your project and its goals.
-
 
 
 
